@@ -21,7 +21,7 @@ symversion=0.1
 T 45800 71300 5 10 1 1 0 0 1
 value=10u
 T 45200 71100 5 10 0 1 0 0 1
-footprint=wurth_inductor
+footprint=inductor_wurth
 }
 C 41500 69600 1 90 0 capacitor-1.sym
 {
