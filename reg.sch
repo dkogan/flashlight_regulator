@@ -21,7 +21,7 @@ symversion=0.1
 T 45800 71300 5 10 1 1 0 0 1
 value=10u
 T 45200 71100 5 10 0 1 0 0 1
-footprint=dima_0603
+footprint=wurth_inductor
 }
 C 41500 69600 1 90 0 capacitor-1.sym
 {
@@ -34,7 +34,7 @@ symversion=0.1
 T 41300 69800 5 10 1 1 0 0 1
 value=10u
 T 41500 69600 5 10 0 1 0 0 1
-footprint=dima_0603
+footprint=0805
 }
 C 45200 69900 1 90 0 resistor-1.sym
 {
@@ -45,7 +45,7 @@ refdes=R1
 T 45300 70100 5 10 1 1 0 0 1
 value=0.13
 T 45200 69900 5 10 0 1 0 0 1
-footprint=dima_0603
+footprint=0603
 }
 C 46300 69900 1 90 0 capacitor-1.sym
 {
@@ -58,7 +58,7 @@ symversion=0.1
 T 46200 70100 5 10 1 1 0 0 1
 value=2.2u
 T 46300 69900 5 10 0 1 0 0 1
-footprint=dima_0603
+footprint=0603
 }
 C 46000 69000 1 0 0 gnd-1.sym
 N 41300 69300 41300 69600 4
@@ -73,7 +73,7 @@ symversion=0.1
 T 42100 69800 5 10 1 1 0 0 1
 value=100n
 T 42300 69600 5 10 0 1 0 0 1
-footprint=dima_0603
+footprint=0603
 }
 N 42100 69600 42100 69500 4
 N 42100 69500 45100 69500 4
