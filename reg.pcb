@@ -887,7 +887,7 @@ Element["" "MAXIM-SOT23-6" "U1" "unknown" 12.9041mm 7.5488mm 1.7369mm -2.2059mm 
 
 	)
 
-Element["onsolder" "button" "S1" "unknown" 12.0000mm 12.0000mm -0.0550mm 0.2740mm 2 100 ""]
+Element["onsolder" "button" "S1" "unknown" 12.0000mm 12.0000mm -0.0550mm 0.2740mm 0 100 "auto"]
 (
 	Pad[-4.0000mm 2.0000mm -4.0000mm 2.0000mm 1.5000mm 1.0000mm 2.0000mm "1" "1" "onsolder,square"]
 	Pad[-4.0000mm -2.0000mm -4.0000mm -2.0000mm 1.5000mm 1.0000mm 2.0000mm "2" "2" "onsolder,square"]
@@ -971,7 +971,7 @@ Layer(4 "power")
 )
 Layer(5 "outline")
 (
-	Arc[12.0000mm 12.0000mm 10.1000mm 10.1000mm 2.0000mm 3.0000mm 0 360 "clearline"]
+	Arc[12.0000mm 12.0000mm 10.1000mm 10.1000mm .0200mm .0300mm 0 360 "clearline"]
 )
 Layer(6 "signal2")
 (
