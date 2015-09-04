@@ -21,7 +21,7 @@ symversion=0.1
 T 47700 71300 5 10 1 1 0 0 1
 value=10u
 T 47100 71100 5 10 0 1 0 0 1
-footprint=inductor_wurth
+footprint=inductor_laird_63
 }
 C 43400 69600 1 90 0 capacitor-1.sym
 {
@@ -58,6 +58,8 @@ symversion=0.1
 T 48100 69800 5 10 1 1 0 0 1
 value=2.2u
 T 48200 69600 5 10 0 1 0 0 1
+footprint=0603
+T 48200 69600 5 10 0 0 0 0 1
 footprint=0603
 }
 C 47900 69000 1 0 0 gnd-1.sym
@@ -101,13 +103,17 @@ T 40800 71700 5 10 1 1 0 6 1
 refdes=U1
 T 39400 71900 5 10 0 0 0 0 1
 device=MAX16054
+T 39000 69900 5 10 0 0 0 0 1
+footprint=MAXIM-SOT23-6
 }
-C 41900 70700 1 270 1 pmos-3.sym
+C 41900 70700 1 270 1 pmos_numbered.sym
 {
 T 42400 71300 5 10 0 0 90 2 1
 device=PMOS_TRANSISTOR
-T 42500 71400 5 10 1 1 180 2 1
+T 42500 71300 5 10 1 1 180 2 1
 refdes=Q1
+T 41900 70700 5 10 0 0 0 0 1
+footprint=SOT23
 }
 N 42900 71200 42900 70800 4
 N 42900 70800 44700 70800 4
@@ -130,6 +136,8 @@ T 48300 69900 5 10 0 0 90 0 1
 device=CERADIODE
 T 49100 70600 5 10 1 1 180 0 1
 refdes=Z1
+T 48900 69500 5 10 0 0 0 0 1
+footprint=zener
 }
 C 38800 69900 1 90 0 switch-spst-1.sym
 {
@@ -137,6 +145,8 @@ T 38100 70300 5 10 0 0 90 0 1
 device=SPST
 T 38500 70400 5 10 1 1 180 0 1
 refdes=S1
+T 38800 69900 5 10 0 0 0 0 1
+footprint=button
 }
 N 48700 69500 48000 69500 4
 N 48700 70700 48000 70700 4
