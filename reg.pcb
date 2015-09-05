@@ -895,6 +895,61 @@ Element["onsolder" "button" "S1" "unknown" 12.0000mm 12.0000mm -0.0550mm 0.2740m
 	Pad[4.0000mm -2.0000mm 4.0000mm -2.0000mm 1.5000mm 1.0000mm 2.0000mm "2" "2" "onsolder,square,edge2"]
 
 	)
+
+Element["onsolder" "dorcy_ring" "T1" "unknown" 12.0000mm 12.0000mm -441.58mil 445.57mil 0 100 "auto"]
+(
+	Pad[10.0204mm 1.2659mm 10.1000mm 0.0000 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder,edge2"]
+	Pad[9.7827mm 2.5118mm 10.0204mm 1.2659mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder,edge2"]
+	Pad[9.3907mm 146.38mil 9.7827mm 2.5118mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder,edge2"]
+	Pad[8.8507mm 4.8657mm 9.3907mm 146.38mil 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder,edge2"]
+	Pad[8.1711mm 5.9366mm 8.8507mm 4.8657mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder,edge2"]
+	Pad[7.3626mm 6.9139mm 8.1711mm 5.9366mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder,edge2"]
+	Pad[6.4380mm 7.7822mm 7.3626mm 6.9139mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder,edge2"]
+	Pad[5.4119mm 8.5277mm 6.4380mm 7.7822mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder,edge2"]
+	Pad[4.3004mm 9.1388mm 5.4119mm 8.5277mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder,edge2"]
+	Pad[3.1211mm 9.6057mm 4.3004mm 9.1388mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder,edge2"]
+	Pad[1.8926mm 9.9211mm 3.1211mm 9.6057mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder,edge2"]
+	Pad[0.6342mm 10.0801mm 1.8926mm 9.9211mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder,edge2"]
+	Pad[-0.6342mm 10.0801mm 0.6342mm 10.0801mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+	Pad[-1.8926mm 9.9211mm -0.6342mm 10.0801mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder,edge2"]
+	Pad[-3.1211mm 9.6057mm -1.8926mm 9.9211mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder,edge2"]
+	Pad[-4.3004mm 9.1388mm -3.1211mm 9.6057mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder,edge2"]
+	Pad[-5.4119mm 8.5277mm -4.3004mm 9.1388mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder,edge2"]
+	Pad[-6.4380mm 7.7822mm -5.4119mm 8.5277mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder,edge2"]
+	Pad[-7.3626mm 6.9139mm -6.4380mm 7.7822mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder,edge2"]
+	Pad[-8.1711mm 5.9366mm -7.3626mm 6.9139mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder,edge2"]
+	Pad[-8.8507mm 4.8657mm -8.1711mm 5.9366mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder,edge2"]
+	Pad[-9.3907mm 146.38mil -8.8507mm 4.8657mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder,edge2"]
+	Pad[-9.7827mm 2.5118mm -9.3907mm 146.38mil 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder,edge2"]
+	Pad[-10.0204mm 1.2659mm -9.7827mm 2.5118mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder,edge2"]
+	Pad[-10.1000mm 0.0000 -10.0204mm 1.2659mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder,edge2"]
+	Pad[-10.1000mm 0.0000 -10.0204mm -1.2659mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+	Pad[-10.0204mm -1.2659mm -9.7827mm -2.5118mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+	Pad[-9.7827mm -2.5118mm -9.3907mm -146.38mil 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+	Pad[-9.3907mm -146.38mil -8.8507mm -4.8657mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+	Pad[-8.8507mm -4.8657mm -8.1711mm -5.9366mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+	Pad[-8.1711mm -5.9366mm -7.3626mm -6.9139mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+	Pad[-7.3626mm -6.9139mm -6.4380mm -7.7822mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+	Pad[-6.4380mm -7.7822mm -5.4119mm -8.5277mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+	Pad[-5.4119mm -8.5277mm -4.3004mm -9.1388mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+	Pad[-4.3004mm -9.1388mm -3.1211mm -9.6057mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+	Pad[-3.1211mm -9.6057mm -1.8926mm -9.9211mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+	Pad[-1.8926mm -9.9211mm -0.6342mm -10.0801mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+	Pad[-0.6342mm -10.0801mm 0.6342mm -10.0801mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+	Pad[0.6342mm -10.0801mm 1.8926mm -9.9211mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+	Pad[1.8926mm -9.9211mm 3.1211mm -9.6057mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+	Pad[3.1211mm -9.6057mm 4.3004mm -9.1388mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+	Pad[4.3004mm -9.1388mm 5.4119mm -8.5277mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+	Pad[5.4119mm -8.5277mm 6.4380mm -7.7822mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+	Pad[6.4380mm -7.7822mm 7.3626mm -6.9139mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+	Pad[7.3626mm -6.9139mm 8.1711mm -5.9366mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+	Pad[8.1711mm -5.9366mm 8.8507mm -4.8657mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+	Pad[8.8507mm -4.8657mm 9.3907mm -146.38mil 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+	Pad[9.3907mm -146.38mil 9.7827mm -2.5118mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+	Pad[9.7827mm -2.5118mm 10.0204mm -1.2659mm 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+	Pad[10.0204mm -1.2659mm 10.1000mm 0.0000 2.0000mm 20.00mil 90.00mil "terminal" "1" "onsolder"]
+
+	)
 Layer(1 "component")
 (
 	Line[13.7469mm 18.3086mm 13.7469mm 634.63mil 25.00mil 20.00mil "clearline"]
@@ -961,7 +1016,6 @@ Layer(2 "solder")
 	Line[532.07mil 19.4000mm 716.48mil 14.7160mm 25.00mil 20.00mil "clearline"]
 	Line[716.48mil 14.7160mm 716.48mil 492.32mil 25.00mil 20.00mil "clearline"]
 	Line[17.2000mm 18.3000mm 18.4000mm 19.5000mm 1.4350mm 20.00mil "clearline"]
-	Arc[12.0000mm 12.0000mm 10.1000mm 10.1000mm 2.0000mm 3.0000mm 0 360 "clearline"]
 )
 Layer(3 "GND")
 (
@@ -971,7 +1025,7 @@ Layer(4 "power")
 )
 Layer(5 "outline")
 (
-	Arc[12.0000mm 12.0000mm 10.1000mm 10.1000mm .0200mm .0300mm 0 360 "clearline"]
+	Arc[12.0000mm 12.0000mm 10.1000mm 10.1000mm 0.0200mm 0.0300mm 0 360 "clearline"]
 )
 Layer(6 "signal2")
 (
@@ -1024,6 +1078,7 @@ NetList()
 	(
 		Connect("LED1-2")
 		Connect("R2-2")
+		Connect("T1-1")
 		Connect("U2-5")
 	)
 	Net("unnamed_net4" "(unknown)")
