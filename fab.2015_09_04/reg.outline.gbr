@@ -1,0 +1,14 @@
+G04 start of page 4 for group 4 idx 4 *
+G04 Title: (unknown), outline *
+G04 Creator: pcb 20140316 *
+G04 CreationDate: Sat Sep  5 02:44:50 2015 UTC *
+G04 For: dima *
+G04 Format: Gerber/RS-274X *
+G04 PCB-Dimensions (mil): 944.88 944.88 *
+G04 PCB-Coordinate-Origin: lower left *
+%MOIN*%
+%FSLAX25Y25*%
+%LNOUTLINE*%
+%ADD49C,0.0008*%
+G54D49*X7480Y47244D02*G75*G03X7480Y47244I39764J0D01*G01*
+M02*
