@@ -9,6 +9,10 @@ T 45000 71900 5 10 0 0 0 0 1
 device=LED2000DR
 T 45000 72100 5 10 0 0 0 0 1
 footprint=SO8
+T 44600 69600 5 10 0 1 0 0 1
+digikey_part_number=497-13502-1-nd
+T 44600 69600 5 10 0 1 0 0 1
+manufacturer_part_number=LED2000DR
 }
 C 47100 71100 1 0 0 inductor-1.sym
 {
@@ -16,12 +20,16 @@ T 47300 71600 5 10 0 0 0 0 1
 device=INDUCTOR
 T 47300 71300 5 10 1 1 0 0 1
 refdes=L1
-T 47300 71800 5 10 0 0 0 0 1
+T 47300 71800 5 10 1 1 0 0 1
 symversion=0.1
 T 47700 71300 5 10 1 1 0 0 1
-value=10u
+value=6.3u
 T 47100 71100 5 10 0 1 0 0 1
 footprint=inductor_laird_63
+T 47100 71100 5 10 0 0 0 0 1
+digikey_part_number=240-2748-1-nd
+T 47100 71100 5 10 0 1 0 0 1
+manufacturer_part_number=TYS60456R3M-10
 }
 C 43400 69600 1 90 0 capacitor-1.sym
 {
@@ -29,12 +37,16 @@ T 42700 69800 5 10 0 0 90 0 1
 device=CAPACITOR
 T 43500 70300 5 10 1 1 180 0 1
 refdes=C1
-T 42500 69800 5 10 0 0 90 0 1
+T 42500 69800 5 10 1 1 90 0 1
 symversion=0.1
 T 43200 69800 5 10 1 1 0 0 1
 value=10u
 T 43400 69600 5 10 0 1 0 0 1
 footprint=0805
+T 43400 69600 5 10 0 0 0 0 1
+digikey_part_number=1276-2872-1-ND
+T 43400 69600 5 10 0 1 0 0 1
+manufacturer_part_number=CL21B106KOQNNNE
 }
 C 47100 69900 1 90 0 resistor-1.sym
 {
@@ -46,6 +58,10 @@ T 47200 70100 5 10 1 1 0 0 1
 value=0.13
 T 47100 69900 5 10 0 1 0 0 1
 footprint=0603
+T 47100 69900 5 10 0 1 0 0 1
+digikey_part_number=A109761CT-ND
+T 47100 69900 5 10 0 1 0 0 1
+manufacturer_part_number=RLP73N1JR13JTD
 }
 C 48200 69600 1 90 0 capacitor-1.sym
 {
@@ -53,14 +69,18 @@ T 47500 69800 5 10 0 0 90 0 1
 device=CAPACITOR
 T 48300 70300 5 10 1 1 180 0 1
 refdes=C3
-T 47300 69800 5 10 0 0 90 0 1
+T 47300 69800 5 10 1 1 90 0 1
 symversion=0.1
 T 48100 69800 5 10 1 1 0 0 1
 value=2.2u
-T 48200 69600 5 10 0 1 0 0 1
+T 48200 69600 5 10 0 0 0 0 1
 footprint=0603
 T 48200 69600 5 10 0 0 0 0 1
 footprint=0603
+T 48200 69600 5 10 0 0 0 0 1
+digikey_part_number=587-2983-1-nd
+T 48200 69600 5 10 0 1 0 0 1
+manufacturer_part_number=lmk107B7225ka-t
 }
 C 47900 69000 1 0 0 gnd-1.sym
 N 43200 69300 43200 69600 4
@@ -70,12 +90,16 @@ T 43500 69800 5 10 0 0 90 0 1
 device=CAPACITOR
 T 44300 70300 5 10 1 1 180 0 1
 refdes=C2
-T 43300 69800 5 10 0 0 90 0 1
+T 43300 69800 5 10 1 1 90 0 1
 symversion=0.1
 T 44000 69800 5 10 1 1 0 0 1
 value=100n
 T 44200 69600 5 10 0 1 0 0 1
 footprint=0603
+T 44200 69600 5 10 0 0 0 0 1
+digikey_part_number=1276-1003-1-ND
+T 44200 69600 5 10 0 1 0 0 1
+manufacturer_part_number=CL21B104KBCNNNC
 }
 N 44000 69600 44000 69500 4
 N 39100 69500 47000 69500 4
@@ -105,6 +129,10 @@ T 39400 71900 5 10 0 0 0 0 1
 device=MAX16054
 T 39000 69900 5 10 0 0 0 0 1
 footprint=MAXIM-SOT23-6
+T 39000 69900 5 10 0 1 0 0 1
+digikey_part_number=MAX16054AZT+TCT-ND
+T 39000 69900 5 10 0 1 0 0 1
+manufacturer_part_number=MAX16054AZT+T
 }
 C 41900 70700 1 270 1 pmos_numbered.sym
 {
@@ -114,6 +142,10 @@ T 42500 71300 5 10 1 1 180 2 1
 refdes=Q1
 T 41900 70700 5 10 0 0 0 0 1
 footprint=SOT23
+T 41900 70700 5 10 0 1 0 0 1
+digikey_part_number=SI2333DDS-T1-GE3CT-ND
+T 41900 70700 5 10 0 1 0 0 1
+manufacturer_part_number=SI2333DDS-T1-GE3
 }
 N 42900 71200 42900 70800 4
 N 42900 70800 44700 70800 4
@@ -126,7 +158,7 @@ T 49100 71600 5 10 0 0 0 0 1
 device=LED
 T 49100 71400 5 10 1 1 0 0 1
 refdes=LED1
-T 49100 71800 5 10 0 0 0 0 1
+T 49100 71800 5 10 1 1 0 0 1
 symversion=0.1
 }
 N 49200 70900 49200 71200 4
@@ -138,6 +170,10 @@ T 49100 70600 5 10 1 1 180 0 1
 refdes=Z1
 T 48900 69500 5 10 0 0 0 0 1
 footprint=zener
+T 48900 69500 5 10 0 1 0 0 1
+digikey_part_number=641-1526-1-nd
+T 48900 69500 5 10 0 1 0 0 1
+manufacturer_part_number=CPDUR5V0R-HF
 }
 C 38800 69900 1 90 0 switch-spst-1.sym
 {
@@ -159,6 +195,10 @@ T 39100 72600 5 10 0 0 270 0 1
 device=RESISTOR
 T 39000 72500 5 10 1 1 0 0 1
 refdes=R1
+T 38700 72900 5 10 0 1 0 0 1
+digikey_part_number=507-1778-1-nd
+T 38700 72900 5 10 0 1 0 0 1
+manufacturer_part_number=0zcg0260ff2c
 }
 T 39000 72200 9 10 1 0 0 0 1
 PTC
